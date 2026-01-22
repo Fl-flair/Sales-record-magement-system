@@ -1,5 +1,5 @@
 # Sales-record-magement-system
-* Name :Okonkwo Daniel
+* Name : Okonkwo Daniel
 * Matric no : 24/14405
 * Department : Computer science
 
